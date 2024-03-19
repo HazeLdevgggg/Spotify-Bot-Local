@@ -43,7 +43,7 @@ EndFunc
 
 
 Func Licence()
-    MsgBox(0, "Licence", "Programme réalisé par HazeL, tous leaks, divulgations ou détournements sont interdits, si vous souhaitez me contacter, hazel_dev sur Discord. Ce programme est protégé contre les leaks !")
+    MsgBox(0, "Licence", "Programme rÃ©alisÃ© par HazeL, tous leaks, divulgations ou dÃ©tournements sont interdits, si vous souhaitez me contacter, hazel_dev sur Discord. Ce programme est protÃ©gÃ© contre les leaks !")
 EndFunc
 
 Func startscript()
